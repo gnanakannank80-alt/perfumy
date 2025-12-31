@@ -14,7 +14,7 @@ h1,ul,li{
 
 }
 ul{
-    margin-left: 60%;
+    margin-left: 40%;
 }
 li{
     color: gray;
@@ -24,7 +24,7 @@ li:hover{
 color:aliceblue
 }
 input{
-    width: 1230px;
+    width: 130px;
     padding: 20px;
     margin: 50px;
 }
@@ -60,4 +60,5 @@ input{
     color: aliceblue;
     padding: 50px;
     margin-top: 20px;
+
 }
