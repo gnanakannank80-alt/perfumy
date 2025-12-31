@@ -24,7 +24,7 @@ li:hover{
 color:aliceblue
 }
 input{
-    width: 230px;
+    width: 500px;
     padding: 20px;
     margin: 50px;
 }
@@ -45,7 +45,7 @@ input{
     color: aliceblue;
 }
 .product{
-    margin: 100px;
+   margin:30px;
      text-align: center;
 
 }
@@ -62,4 +62,5 @@ input{
     margin-top: 20px;
 
 }
+
 
